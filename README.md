@@ -1,3 +1,4 @@
+ created by: [Austin Schroeder](https://github.com/austinschroeder)
  
  WHAT IS A LINKED LIST?
  =====================
